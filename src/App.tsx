@@ -25,7 +25,7 @@ function App() {
           <p>With expert craftsmanship and a commitment to quality, 
           Join us in savoring the art of coffee, one cup at a time.</p>
         </div>
-        <a href="#" className=" inline-block text-white bg-[#2F1F14] p-4 ">Go to github</a>
+        <a href="https://github.com/between27/amena-webpage3" className=" inline-block text-white bg-[#2F1F14] p-4 ">Go to github</a>
       </div>
     </div>
 
